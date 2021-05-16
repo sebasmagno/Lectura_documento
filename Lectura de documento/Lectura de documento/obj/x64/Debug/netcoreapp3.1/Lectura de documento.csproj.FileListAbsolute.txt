@@ -1,0 +1,13 @@
+C:\Users\sebas\OneDrive\Documentos\proyecto\prueba1\Lectura de documento\Lectura de documento\bin\x64\Debug\netcoreapp3.1\Lectura de documento.exe
+C:\Users\sebas\OneDrive\Documentos\proyecto\prueba1\Lectura de documento\Lectura de documento\bin\x64\Debug\netcoreapp3.1\Lectura de documento.deps.json
+C:\Users\sebas\OneDrive\Documentos\proyecto\prueba1\Lectura de documento\Lectura de documento\bin\x64\Debug\netcoreapp3.1\Lectura de documento.runtimeconfig.json
+C:\Users\sebas\OneDrive\Documentos\proyecto\prueba1\Lectura de documento\Lectura de documento\bin\x64\Debug\netcoreapp3.1\Lectura de documento.runtimeconfig.dev.json
+C:\Users\sebas\OneDrive\Documentos\proyecto\prueba1\Lectura de documento\Lectura de documento\bin\x64\Debug\netcoreapp3.1\Lectura de documento.dll
+C:\Users\sebas\OneDrive\Documentos\proyecto\prueba1\Lectura de documento\Lectura de documento\bin\x64\Debug\netcoreapp3.1\Lectura de documento.pdb
+C:\Users\sebas\OneDrive\Documentos\proyecto\prueba1\Lectura de documento\Lectura de documento\obj\x64\Debug\netcoreapp3.1\Lectura de documento.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Documentos\proyecto\prueba1\Lectura de documento\Lectura de documento\obj\x64\Debug\netcoreapp3.1\Lectura de documento.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Documentos\proyecto\prueba1\Lectura de documento\Lectura de documento\obj\x64\Debug\netcoreapp3.1\Lectura de documento.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documentos\proyecto\prueba1\Lectura de documento\Lectura de documento\obj\x64\Debug\netcoreapp3.1\Lectura de documento.dll
+C:\Users\sebas\OneDrive\Documentos\proyecto\prueba1\Lectura de documento\Lectura de documento\obj\x64\Debug\netcoreapp3.1\Lectura de documento.pdb
+C:\Users\sebas\OneDrive\Documentos\proyecto\prueba1\Lectura de documento\Lectura de documento\obj\x64\Debug\netcoreapp3.1\Lectura de documento.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Documentos\proyecto\prueba1\Lectura de documento\Lectura de documento\obj\x64\Debug\netcoreapp3.1\Lectura de documento.csprojAssemblyReference.cache
